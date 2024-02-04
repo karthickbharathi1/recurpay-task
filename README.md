@@ -1,8 +1,8 @@
 
 # Vite React template
-#Task-1 Live preview
+##Task-1 Live preview
 -https://65bf27f4a0948a1f73b6d174--polite-donut-fda7f7.netlify.app/
-#Task-2 Live preview
+##Task-2 Live preview
 -https://65bf27b49ae4861f762a5f29--statuesque-kleicha-489829.netlify.app/
 ## Installation
 
@@ -20,9 +20,7 @@
    ```
 
 
-   Both methods will clean the git history.
 
-   _[degit](https://github.com/Rich-Harris/degit)_
 
 2. Update & install the dependencies:
 
@@ -30,4 +28,4 @@
    npx ncu -u && npm i
    ```
 
-Same for task-2
+Repeat the Same for task-2
