@@ -1,7 +1,9 @@
 
 # Vite React template
 #Task-1 Live preview
--
+-https://65bf27f4a0948a1f73b6d174--polite-donut-fda7f7.netlify.app/
+#Task-2 Live preview
+-https://65bf27b49ae4861f762a5f29--statuesque-kleicha-489829.netlify.app/
 ## Installation
 
 
@@ -28,9 +30,4 @@
    npx ncu -u && npm i
    ```
 
-   _[npm-check-updates](https://github.com/raineorshine/npm-check-updates)_
-
-3. Change the name, description, author, license, links in `package.json`.
-4. Check out the available scripts in `package.json` or execute `npm run`.
-
-To add import aliases, edit `path` in `tsconfig.json`.
+Same for task-2
